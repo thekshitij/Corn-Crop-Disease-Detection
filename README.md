@@ -1,1 +1,1 @@
-# Corn-Crop-Disease-Detection
+Corn-Crop-Disease-Detection-Using-Swin-Transformer-BiLSTM
